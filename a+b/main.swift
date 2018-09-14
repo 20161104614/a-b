@@ -8,5 +8,10 @@
 
 import Foundation
 
-print("Hello, World!")
+var A = 15
+var B = 20
+var C = A+B
+print(C)
+
+
 
